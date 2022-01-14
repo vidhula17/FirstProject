@@ -1,4 +1,4 @@
-a=1
+a=5
 b=2
 print(a+b)
 print("vidhula")
